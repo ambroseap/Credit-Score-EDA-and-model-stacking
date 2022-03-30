@@ -1,1 +1,6 @@
-# Credit-Score-EDA-and-model-stacking
+# LOAN:  Credit-Score-EDA-and-model-stacking
+
+#POWERBI FILE
+JUPYTER NOTEBOOK
+PREDICTION 
+VIDEO
